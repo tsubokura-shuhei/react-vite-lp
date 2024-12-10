@@ -52,3 +52,6 @@ export default tseslint.config({
 # Node.js version: v20.18.0
 
 # npm version: v9.6.7
+
+# 続きは：7:00から
+https://www.youtube.com/watch?v=D52gjW9T3YM
